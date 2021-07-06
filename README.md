@@ -1,4 +1,5 @@
 # Discord - Autobump
+Sexy discord autobump that will automatically bump your server, then delete the last 2 messages in an attempt to be secretive.
 
 ### Useless Information:
 - Written in Discord.py
@@ -25,6 +26,7 @@ Now you need to set everything up.
 - Navigate to the config folder
 - Go to token.txt
 - Paste your token for your account
+- Please make sure the bot user has delete messages permission on the server
 
 **How Do I Get My Account Token?**
 
