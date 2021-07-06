@@ -14,9 +14,11 @@ Python 3.8 or higher required
 ### Installation
 
 Start with installing Discord.py
+
 ```pip3 install discord.py```
 
 Now, clone the repo
+
 ```gh repo clone Jaxon0/autobump```
 
 Now you need to set everything up.
@@ -29,12 +31,17 @@ Now you need to set everything up.
 
 **Setup The Bot**
 Set the channel
+
 ```%setup add <#channel>```
 
+*i reccommend making it in a private channel, to avoid users spamming the bot if they catch on that its a autobump*
+
 Add your selfbot user to the bump remind
+
 ```%setup ping @account```
 
 Now, start the bot, and you should be set!
 
 # NOTICE:
+
 ```SelfBots are against Discord TOS, I do not reccommend you use this as you could get your account banned/terminated. I am not responsible for terminated accounts and do not condone the use of this.```
