@@ -52,5 +52,5 @@ Now, start the bot, and you should be set!
 # NOTICE:
 
 ```
-SelfBots are against Discord TOS, I do not reccommend you use this as you could get your account banned/terminated. I am not responsible for terminated accounts and do not condone the use of this.
+SelfBots are against Discord TOS, and against Disboard TOS. I do not reccommend you use this as you could get your account banned/terminated. I am not responsible for terminated accounts and do not condone the use of this.
 ```
