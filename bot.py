@@ -16,7 +16,7 @@ async def on_ready():
     pass
 
 @c.event
-async def on_message(ctx, limit=1):
+async def on_message(ctx, limit=2):
     if ctx.author.id == 735147814878969968:
         await ctx.channel.trigger_typing()
         await asyncio.sleep(3)
