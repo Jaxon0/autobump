@@ -25,7 +25,9 @@ Now you need to set everything up.
 - Navigate to the config folder
 - Go to token.txt
 - Paste your token for your account
+
 **How Do I Get My Account Token?**
+
 - Open discord in the browser
 - Open developer tools > application > local storage > https://discord.com > scroll all the way to the bottom and refresh, make sure to copy it quickly
 - **WHEN PASTING UR TOKEN INTO THE FILE MAKE SURE TO TAKE OUT THE QUOTATIONS
