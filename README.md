@@ -9,7 +9,7 @@ Python 3.8 or higher required
 ### Dependencies
 - Discord.py
 - A server to run it on
-- An application on [discord developer portal](https://discord.com/developers)
+- A (hopefully alt) discord account
 
 ### Installation
 
@@ -24,12 +24,17 @@ Now, clone the repo
 Now you need to set everything up.
 - Navigate to the config folder
 - Go to token.txt
-- Paste your token for your bot
+- Paste your token for your account
+**How Do I Get My Account Token?**
+- Open discord in the browser
+- Open developer tools > application > local storage > https://discord.com > scroll all the way to the bottom and refresh, make sure to copy it quickly
+- **WHEN PASTING UR TOKEN INTO THE FILE MAKE SURE TO TAKE OUT THE QUOTATIONS
 
 ### Making it work
 - Add [this bot](https://discord.com/oauth2/authorize?client_id=735147814878969968&permissions=268696721&scope=applications.commands%20bot)
 
 **Setup The Bot**
+
 Set the channel
 
 ```%setup add <#channel>```
@@ -44,4 +49,6 @@ Now, start the bot, and you should be set!
 
 # NOTICE:
 
-```SelfBots are against Discord TOS, I do not reccommend you use this as you could get your account banned/terminated. I am not responsible for terminated accounts and do not condone the use of this.```
+```
+SelfBots are against Discord TOS, I do not reccommend you use this as you could get your account banned/terminated. I am not responsible for terminated accounts and do not condone the use of this.
+```
