@@ -1,3 +1,7 @@
+Message From Dev
+------------------------------------------------
+This project is currently on hold due to the shutdown of discord.py. Soon, I plan to migrate the project to Hikari (another python discord wrapper). Please use this with caution as it is unsafe and has privacy holes.
+
 # Discord - Autobump
 Sexy discord autobump that will automatically bump your server, then delete the last 2 messages in an attempt to be secretive.
 
